@@ -1,7 +1,0 @@
-define e = Character("Eileen")
-
-label start:
-    scene bg room
-    e "测试一下 Ren'Py 工具链是否可用。"
-    e "如果这行能编译通过，说明没问题。"
-    return

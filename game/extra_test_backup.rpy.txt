@@ -1,9 +1,0 @@
-define test_char = Character("测试角色")
-
-label toolchain_test:
-    $ 测试变量 = "Ren'Py 中文测试 OK"
-    test_char "[测试变量]"
-    test_char "第二句：position=inside 生效。"
-    return
-
-# auto_compile=true 路径测试
