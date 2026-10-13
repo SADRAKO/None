@@ -83,7 +83,7 @@ README.md  AI_USAGE.md          本文件与 AI 使用说明
 ## 素材与出处
 
 - **美术**（立绘、背景）：由 AI 生成，工具为 ChatGPT 的图像生成（image2）。
-  详见 **[AI_USAGE.md](AI_USAGE.md)**
+  详见 **[AI_USAGE.md](AI_USAGE.md)**、**[ai-logs/](ai-logs)**
 - **音乐与音效**：由脚本合成生成（正弦波 + 包络），**不含任何第三方音乐素材**
 - **剧本**：作者原创，AI 参与润色
 - **引擎**：Ren'Py 8.5.3，MIT 许可，许可证见 `renpy/LICENSE.txt`
