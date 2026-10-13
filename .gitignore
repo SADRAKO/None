@@ -1,0 +1,7 @@
+# 运行残留：存档、缓存、日志，不进仓库
+C-Lang-Girl-Tutoring-0.3.0-win/game/saves/
+C-Lang-Girl-Tutoring-0.3.0-win/game/cache/
+C-Lang-Girl-Tutoring-0.3.0-win/log.txt
+C-Lang-Girl-Tutoring-0.3.0-win/traceback.txt
+C-Lang-Girl-Tutoring-0.3.0-win/errors.txt
+*.save

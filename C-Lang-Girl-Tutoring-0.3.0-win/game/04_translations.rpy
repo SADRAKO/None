@@ -1,0 +1,13 @@
+translate None strings:
+    old "Are you sure you want to quit?"
+    new "确定退出游戏吗？"
+    old "Are you sure you want to return to the main menu?\nThis will lose unsaved progress."
+    new "确定返回标题页吗？\n尚未保存的进度将丢失。"
+    old "Are you sure you want to overwrite your save?"
+    new "确定覆盖这个存档吗？"
+    old "Are you sure you want to delete this save?"
+    new "确定删除这个存档吗？"
+    old "Loading will lose unsaved progress.\nAre you sure you want to do this?"
+    new "读取会丢失尚未保存的进度。\n确定读取吗？"
+    old "Quick save complete."
+    new "快速存档已保存。"
