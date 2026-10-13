@@ -88,24 +88,6 @@ README.md  AI_USAGE.md          本文件与 AI 使用说明
 - **剧本**：作者原创，AI 参与润色
 - **引擎**：Ren'Py 8.5.3，MIT 许可，许可证见 `renpy/LICENSE.txt`
 
-### ⚠️ 关于字体
-
-游戏内置的 `msyh.ttc`（微软雅黑）与 `simhei.ttf`（黑体）是 **Windows 系统自带字体，
-许可不允许随软件再分发**。
-
-- **自己玩、发给朋友试玩**：没问题
-- **要公开发布**：请换成开源字体（思源黑体 / Noto Sans CJK），
-  并同步修改 `game/gui.rpy` 里的 `gui.text_font` / `gui.name_text_font` /
-  `gui.interface_text_font`
-
----
-
-## 已知问题
-
-- 三张 CG（收银台、代币兑换处、入部申请书）已经画好但**尚未接入游戏**，
-  相关剧情目前以文字和背景呈现
-- 「害羞」表情暂时沿用「平静」的立绘
-
 ---
 
 ## 许可
